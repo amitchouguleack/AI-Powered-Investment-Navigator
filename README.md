@@ -34,3 +34,6 @@ FinPilot is a fully custom-built, AI-powered finance assistant designed to deliv
 "Is Tesla stock ethical?"
 
 ```
+## 🔗 Live Demo
+
+Try the app here: [AI-Powered Investment Navigator]  (https://huggingface.co/spaces/amitchouguleack/AI-Powered-Investment-Navigator)
