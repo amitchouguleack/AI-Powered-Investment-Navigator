@@ -41,3 +41,4 @@ Try the app here: [AI-Powered Investment Navigator]  (https://huggingface.co/spa
 ![App Screenshot](screenshot.png)
 
 
+
